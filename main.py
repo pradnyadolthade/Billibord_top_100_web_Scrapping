@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 
-CLIENT_ID = "6d6ba3a71e79434ebf5b6f8d48feb4b2"
-CLIENT_SECRET = "db18125fa8ee4d24b5b34b1a18b4dab4"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 
 print("Welcome to the Music Time Machine!")
