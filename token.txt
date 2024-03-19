@@ -1,1 +1,2 @@
-{"access_token": "BQDVy8HTBfiess_NG8RDieiLzkAasd_9TrwAUkyu2L_uMRwArzBAElnRetdKEypri9fxn8goIjaiAqxU2oxQO2Vqx51Kddogo2KGgm-17YbdD6MVwS7duXjRbLXGoFlUNhY_IxaWUx9C_5ZEOkYfvVGYQM-6xOjnV3HztIX6hx8C_RFbMM7A9XNAvEzls1USSLk33Drzz4bB6GeAh4cEQPxl0qisZZeOyg", "token_type": "Bearer", "expires_in": 3600, "scope": "playlist-modify-private", "expires_at": 1684998606, "refresh_token": "AQDbajVmZWrhjclZMsvYfTltQXHzCJP2rh6ICst9qu2_WfUzHStSvIXDNn09QmtIyO817cfH_ZvTWbfYhWLBFW_Vs-HHEjPbd3T5wNrAW0XLsnvtarFpCKQ1fWJB7Fxh-j4"}
+#file deleted for security purpose 
+#once you run main.py file token.txt file will automatically generated
